@@ -33,7 +33,7 @@ Página de apresentação para a empresa fictícia Flutuar, que trabalha com pac
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/m4iGVOmN1efHgLKP5FDIrl/Projeto01-Extra-Copy?fuid=1286420659392468376). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/m4iGVOmN1efHgLKP5FDIrl/Projeto01-Extra-Copy?fuid=1286420659392468376).
 
 ## :memo: Licença
 
