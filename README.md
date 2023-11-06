@@ -41,5 +41,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Projeto feito por mim, em um desafio da Rocketseat. :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Projeto feito em um desafio da Rocketseat. :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
